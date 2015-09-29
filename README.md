@@ -7,6 +7,8 @@
 * [Building Bioinformatics Solutions] (http://www.amazon.com/Building-Bioinformatics-Solutions-Conrad-Bessant/dp/0199658560/ref=sr_1_21?s=books&ie=UTF8&qid=1443543987&sr=1-21&keywords=bioinformatics)
 
 ## Programming
+
+* [Computational Biology A Practical Introduction to BioData Processing and Analysis with Linux, MySQL, and R](http://www.springer.com/us/book/9783642347481)
 * Python For Biologists
   http://pythonforbiologists.com/
 * Advanced Python For Biologists
