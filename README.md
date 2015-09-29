@@ -19,7 +19,7 @@
 
 ## Machine Learning and Statistics
 * [Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids](http://www.amazon.com/Biological-Sequence-Analysis-Probabilistic-Proteins/dp/0521629713/ref=pd_sim_14_1?ie=UTF8&refRID=1FDCT9TRNH0C2JGEEMDB&dpID=51sn5Ohcd0L&dpSrc=sims&preST=_AC_UL160_SR113%2C160_)
-* [An Introduction to Statistical Learning: with Applications in R]
+* [An Introduction to Statistical Learning: with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 * [The Geometry of Multivariate Statistics] (http://www.amazon.com/Geometry-Multivariate-Statistics-Thomas-Wickens/dp/0805816569/ref=pd_bxgy_14_img_2?ie=UTF8&refRID=03NJTJRKSS7M024DTSK3). This book helps you to understand/visualize complex multivariate statistical concept using simple geometry.  
 * [Machine Learning: A Probabilistic Perspective] (http://www.cs.ubc.ca/~murphyk/MLbook/)
 * [Pattern Recognition and Machine Learning] (http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
