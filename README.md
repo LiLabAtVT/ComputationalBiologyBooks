@@ -1,4 +1,4 @@
-# ComputationalBiologyBooks
+# Computational Biology Books
 
 ## Overview
 * [Bioinformatics: Sequence and Genome Analysis](http://www.amazon.com/Bioinformatics-Sequence-Genome-Analysis-Mount/dp/0879697121/ref=pd_sim_14_19?ie=UTF8&refRID=155ZH1GZQ7ANRMSQPC1G)
